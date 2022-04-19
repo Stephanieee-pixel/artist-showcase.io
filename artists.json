@@ -1,0 +1,62 @@
+[
+  {
+    "title": "ROSALIA",
+    "genre": "Latin Urbano/Pop",
+    "nationality": "Spanish",
+    "song": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb?si=d39749397acc4ede",
+    "songname": "CANDY",
+    "runtime": 42,
+    "posters": ["img/Rosalia.jpg", "img/Rosalia2.jpg"],
+    "posterindex": 0
+  },
+  {
+    "title": "Romeo Santos",
+    "genre": "Bachata",
+    "nationality": "American",
+    "song": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw?si=c1ac815848014ab7",
+    "songname": "Sus Huellas",
+    "runtime": 64,
+    "posters": ["img/Romeo.jpg"],
+    "posterindex": 0
+  },
+  {
+    "title": "Bad Bunny",
+    "genre": "Latin Urbano",
+    "nationality": "Puerto Rican",
+    "song": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4?si=df1e92d5929146dd",
+    "songname": "TE DESEO LO MEJOR",
+    "runtime": 47,
+    "posters": ["img/badbunny.jpg", "img/badbunny3.jpg"],
+    "posterindex": 0
+  },
+  {
+    "title": "Karol G",
+    "genre": "Latin Urbano/Pop",
+    "nationality": "Colombian",
+    "song": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG?si=d65ddd7bade04c16",
+    "songname": "200 COPAS",
+    "runtime": 58,
+    "posters": ["img/Karolg.jpg", "img/Karolg2.jpg"],
+    "posterindex": 0
+  },
+  {
+    "title": "Becky G",
+    "genre": "Latin Urbano/Pop",
+    "nationality": "American",
+    "song": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR?si=933da80e3ea64eb8",
+    "songname": "Ram Pam Pam",
+    "runtime": 52,
+    "posters": ["img/Beckyg.jpg"],
+    "posterindex": 0
+  },
+  {
+    "title": "Paulo Londra",
+    "genre": "Rock",
+    "nationality": "Argentine",
+    "song": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB?si=d7bef3a6f3c94a61",
+    "songname": "Plan A",
+    "runtime": 62,
+    "posters": ["img/PauloL.jpg", "img/Paulo.jpeg"],
+    "posterindex": 0
+  }
+]

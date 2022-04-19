@@ -1,0 +1,14 @@
+Potential color scheme
+https://coolors.co/ef6351-f38375-f7a399-fbc3bc-ffe3e0 
+https://coolors.co/463f3a-8a817c-bcb8b1-f4f3ee-e0afa0 
+
+Display Fonts
+https://fonts.google.com/specimen/Knewave?category=Display&preview.text=ROSALIA&preview.text_type=custom
+https://fonts.google.com/specimen/Fugaz+One?category=Display&preview.text=ROSALIA&preview.text_type=custom
+
+Other fonts
+https://fonts.google.com/specimen/Lora?category=Serif,Sans+Serif&preview.text=Genre&preview.text_type=custom
+
+
+
+to fix spacing , make sure col don't exceed 12 and use img-fluid class to have imgs resized

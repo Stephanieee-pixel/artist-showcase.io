@@ -1,0 +1,47 @@
+html,
+body {
+  background-color: #f38375;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #f38375;
+}
+a:hover {
+  color: #ffdbd6;
+}
+p {
+  font-family: "Lora", serif;
+  font-weight: 800;
+}
+.body {
+  background-color: #fbc3bc;
+}
+.header h1 {
+  display: inline-block;
+  color: #fbc3bc;
+  font-family: "Shrikhand", cursive;
+}
+.main {
+  background-color: #f7a399;
+  padding: 40px 0;
+}
+.thumbnail {
+  border: 0px;
+  position: relative;
+  padding: 50px;
+  border-radius: 0;
+  margin-bottom: 50px;
+}
+.thumbnail img {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 5px;
+}
+.imageInfo {
+  font-style: italic;
+  font-size: small;
+  float: right;
+  padding-right: 5px;
+}
